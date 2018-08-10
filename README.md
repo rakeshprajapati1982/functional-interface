@@ -1,2 +1,2 @@
-# functional-interface
-Functional Interface - Java8
+# Functional Interface - Java 8
+View my blog [https://readtorakesh.blogspot.com/2018/08/functional-interface-java8.html](https://readtorakesh.blogspot.com/2018/08/functional-interface-java8.html) for explanation and usage of code of this repository
